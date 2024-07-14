@@ -6,5 +6,4 @@
 	<p>bar</p>
 	<p>qaz</p>
 {/if}
-<hr />
 <p>{foo}</p>
